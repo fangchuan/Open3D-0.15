@@ -20,14 +20,14 @@ dependencies=(
     python3-dev
     # Filament build-from-source deps
     libsdl2-dev
-    libc++-dev
-    libc++abi-dev
+    libc++-7-dev
+    libc++abi-7-dev
     ninja-build
     libxi-dev
     # OpenBLAS build-from-source deps
     gfortran
     # ML deps
-    # libtbb-dev
+    libtbb-dev
     # Headless rendering deps
     libosmesa6-dev
     # RealSense deps
